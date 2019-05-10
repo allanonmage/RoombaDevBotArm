@@ -1,5 +1,5 @@
 # RoombaDevBotArm
-Development platform on a Roomba chasis
+Development platform on a Roomba chasis, project circa 2012
 
 I built this to learn and explore arduino, robotics, and had hoped to move into Android app development.  The project stalled because of reasons, but if I pick it back up, I'll update the docs here.
 
