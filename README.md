@@ -37,7 +37,7 @@ Stretch goals that never happened
 Reflections and things I should have done
 * When I wired up the main power switch, I thought about making it the main battery switch.  I decided against it.  In retrospect, that woul dhave been helpful to keep the roomba from draining the battery while the robot sat on my desk and later my shelf.
 * It seems I was 3-5 years too early for USB libraries and enough Android support to do what I wanted.  Android support for USB and OTG relaly picked up in 2014, and became cheap a few years after than.
-* Adafruit and some random mod on the Arduino were pretty dickish about the motor controller and offering any support for it.  Apparently, it was enough friction that I stopped fooling around with Arduno, because this was my last Arduino project for many years.  That's a story for a beer, not a readme file though.
+* Adafruit and some random mod on the Arduino were pretty dickish about the motor controller and offering any support for it.  Apparently, it was enough friction that I stopped fooling around with Arduno, because this was my last Arduino project for many years.  Not the only reason I faded out of this project, but it was enough of a sour taste in my mouth that I don't buy Adafruit parts unless I absolutely have to.  That's a story for a beer, not a readme file though.
 
 
 
